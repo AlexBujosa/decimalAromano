@@ -38,8 +38,8 @@ Firstable, you need to install the lastest version of Go. Using this command
 
 ## 3. **Documentation, Requirments, Acceptance Criteria, and Test Cases**
 
-[Requirements, Acceptance, and Test Cases](ReqCriCas.md)
+[Requirements, Acceptance, and Test Cases](Docs/ReqCriCas.md)
 
 ## 4. **Questionnaire**
 
-[Questionnaire](cuestionario.md)
+[Questionnaire](Docs/cuestionario.md)
